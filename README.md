@@ -1,4 +1,4 @@
-# Olá, eu sou o Danilo 👋
+# Olá, eu sou o Tharyck 👋
 
 Seja bem-vindo(a) ao meu perfil! Sou estudante de Tecnologia da Informação com base em desenvolvimento de software, orientando minha carreira e especialização para as áreas de **Redes e Cibersegurança (Blue Team)**. Atualmente, utilizo este espaço para registrar minha evolução prática, testar novas tecnologias, analisar tráfego e construir meus projetos.
 
@@ -23,7 +23,7 @@ Seja bem-vindo(a) ao meu perfil! Sou estudante de Tecnologia da Informação com
 
 ## 🚀 Central de Projetos
 
-* 📌 [Acessar meu Hub de Testes & Estudos](https://github.com/DnL1-Prog) — *Veja na prática meus experimentos de código e pequenos projetos.*
+* 📌 [Acessar meu Hub de Testes & Estudos](https://github.com/TkDesktop) — *Veja na prática meus experimentos de código e pequenos projetos.*
 
 ---
 
