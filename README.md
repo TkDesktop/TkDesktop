@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou o Danilo 👋
 
-<!--
-**TkDesktop/TkDesktop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo(a) ao meu perfil! Sou estudante de Tecnologia da Informação com base em desenvolvimento de software, orientando minha carreira e especialização para as áreas de **Redes e Cibersegurança (Blue Team)**. Atualmente, utilizo este espaço para registrar minha evolução prática, testar novas tecnologias, analisar tráfego e construir meus projetos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Formação & Certificações
+
+* 📚 Cursando **Técnico em Informática** pelo **Senac SP**.
+* 🛡️ Formação em **Cibersegurança** pelo **Instituto Percorre**.
+* 📜 Certificado **Introdução à Cybersecurity** pela **Cisco**.
+
+---
+
+## 🛠️ Tecnologias & Habilidades
+
+* 🌐 **Front-end:** HTML5, CSS3, JavaScript
+* ⚙️ **Back-end & Lógica:** C# (.NET) — *Conceitos básicos & Programação Orientada a Objetos (POO)*
+* 🛡️ **Segurança & Redes:** Análise de tráfego, conceitos de redes e defesa cibernética (Blue Team)
+* 🔧 **Ferramentas:** Wireshark, Git, GitHub, VS Code, Visual Studio Community
+
+---
+
+## 🚀 Central de Projetos
+
+* 📌 [Acessar meu Hub de Testes & Estudos](https://github.com/DnL1-Prog) — *Veja na prática meus experimentos de código e pequenos projetos.*
+
+---
+
+## 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharyck-henrique-carvalho-0a8099372)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharyckhenrique20@icloud.com)
