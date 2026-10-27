@@ -8,7 +8,7 @@ Seja bem-vindo(a) ao meu perfil! Sou estudante de Tecnologia da Informação com
 
 * 📚 Cursando **Técnico em Informática** pelo **Senac SP**.
 * 🛡️ Formação em **Cibersegurança** pelo **Instituto Percorre**.
-* 📜 Certificado **Introdução à Cibersegurança**  pela **Cisco**.
+* 📜 Certificado **Introduction Cybersecurity**  pela **Cisco**.
 * 🔐 Certificado **Introduction to CIP** pela **OPSWAT Academy**.
 * 🔐 Certificado **Cybersecurity Fundamentals Associate** pela **OPSWAT Academy**.
 
